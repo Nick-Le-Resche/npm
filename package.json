@@ -1,7 +1,6 @@
 {
-	"author": "Nick Le Resche",
-	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nick Le Resche",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
